@@ -1,4 +1,4 @@
-# Free Ubuntu 20.04
+# Free Ubuntu 20.04: The Better Edition
 
 
 ## 1. Introduction
@@ -15,3 +15,5 @@
 - It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtube.com).
 - Link Chrome remote code: https://remotedesktop.google.com/headless
 
+## Why ten days? Cant you make it 20 days?
+Due to Ubuntu's limit about how it is 10 days, i am not allowed to make it longer than 10 days. Make your way through by [Shell.](https://shell.com).
