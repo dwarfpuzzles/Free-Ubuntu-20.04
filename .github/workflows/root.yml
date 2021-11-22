@@ -1,0 +1,25 @@
+name: ROOTED ubuntu 20.04 desktop
+
+on: 
+  workflow_dispatch:
+    inputs:
+      chrome_access_code:
+        description: Give me the chrome code motherfucker
+        required: true
+      pin:
+        description: Enter your 6 numbers pin
+        required: true
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run settting file
+        run: |
+          sudo bash ./config/setting.sh
+          ${{ github.event.inputs.chrome_access_code }} -pin=${{ github.event.inputs.pin }}
+      - name: root ready to go 
+        run: sudo bash ./config/maketime.sh
+      - name: root mode
+      run: sudo bash
+          
