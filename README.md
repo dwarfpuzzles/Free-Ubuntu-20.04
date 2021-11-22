@@ -9,11 +9,9 @@
 - 7GB RAM
 - 2 CPU
 - 39GB Hard Disk
-
+- 10 day Ubuntu VPS because it should be rdp-timer friendly
+- Has root
 ## 3. Let's get started
 - It's quite easy for anyone done it before (:lol) but if it's your first time, watch [this short video](https://youtube.com).
 - Link Chrome remote code: https://remotedesktop.google.com/headless
-
-## 4. Feedback
-- It just my one-day work, so it's not totally perfect. If you have any idea to improve this, contact me at [Telegram](https://t.me/MrMorning7)
 
