@@ -1,3 +1,6 @@
+# WARNING!
+By using this repo, you agree if you violate GitHub's rules theres a chance you might get actionbanned. Use this for caution purposes.
+
 # Free Ubuntu 20.04: The Better Edition
 
 
@@ -17,3 +20,4 @@
 
 ## Why ten days? Cant you make it 20 days?
 Due to Ubuntu's limit about how it is 10 days, i am not allowed to make it longer than 10 days. Make your way through by [Shell.](https://shell.com)
+
