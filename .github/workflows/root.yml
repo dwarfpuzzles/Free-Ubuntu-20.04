@@ -9,6 +9,8 @@ on:
       pin:
         description: Enter your 6 numbers pin
         required: true
+      uagree:
+permissions: THIS IS USED FOR TESTING PURPOSES. DO NOT USE THIS FOR BYPASSING GITHUB RULES.
 jobs:
   build:
     runs-on: ubuntu-20.04
